@@ -4,7 +4,7 @@
 -- _a = "klm.no-ip.org"
 
 -- A record
-a(_a, "88.152.176.16")
+a(_a, "109.91.223.33")
 
 -- CNAME records
 cname("www", _a)
