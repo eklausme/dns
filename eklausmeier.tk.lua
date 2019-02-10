@@ -4,7 +4,7 @@
 -- _a = "eklausmeier.tk"
 
 -- A record
-a(_a, "178.200.54.155")
+a(_a, "178.200.54.52")
 
 -- CNAME records
 cname("www", _a)
