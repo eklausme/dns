@@ -4,4 +4,4 @@
 -- _a = "eklausmeier.goip.de"
 
 -- A record
-a(_a, "178.200.54.52")
+a(_a, "94.114.1.108")
